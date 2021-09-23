@@ -1,0 +1,30 @@
+* {
+  background: #F1EED7;
+}
+
+h1 {
+  font-family: "Garamond", serif;
+  color: red;
+}
+
+img {
+  width: 413px;
+  height: auto;
+}
+
+h4 {
+  text-transform: uppercase;
+}
+
+p {
+  font-family: "Lucida Handwriting", cursive;
+  font-style: italic;
+}
+
+ul {
+  font-family: "Monaco", monospace;
+}
+
+ol {
+  font-family: "Helvetica", sans-serif;
+}
